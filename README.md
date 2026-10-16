@@ -1,4 +1,4 @@
-**#Live Link --->** https://enterprise-rag-knowledge-assistant.netlify.app/
+**Live Link --->** https://enterprise-rag-knowledge-assistant.netlify.app/
 
 # Enterprise RAG Knowledge Assistant
 
