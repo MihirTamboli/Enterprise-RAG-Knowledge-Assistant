@@ -1,3 +1,5 @@
+#Live Link ---> https://enterprise-rag-knowledge-assistant.netlify.app/
+
 # Enterprise RAG Knowledge Assistant
 
 An AI-powered **Retrieval-Augmented Generation (RAG)** application that enables users to interact with enterprise documents using natural language. The system combines **Large Language Models (LLMs)** with **vector similarity search** to deliver accurate, context-aware responses from uploaded documents.
